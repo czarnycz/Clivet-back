@@ -22,8 +22,8 @@ To run app locally:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/minvoo/clivet.git (Backend)
-   git clone https://github.com/minvoo/clivet-front.git (Frontend)
+   git clone https://github.com/czarnycz/Clivet-back (Backend)
+   git clone https://github.com/czarnycz/Clivet_React (Frontend)
    ```
 
 2. Run backend server on port 8080. Navigate to frontend folder and start the server. Install missing dependencies.
