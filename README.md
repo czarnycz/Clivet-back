@@ -40,7 +40,7 @@ Users can:
 * Check own pets info
 * Check all appointments of specific pet
 
-* Administrator can:
+Administrator can:
 * Edit user data
 * Add pets
 * Add appointments
